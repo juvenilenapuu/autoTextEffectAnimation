@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;  
+  background: url(200w.webp) black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: 900;
+    color: black;
+  font-size: 2em;
+}
